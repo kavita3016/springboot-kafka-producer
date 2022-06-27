@@ -1,0 +1,54 @@
+{
+  "sales": [
+    {
+      "product": "Apples",
+      "price": 10.00,
+      "quantity": 20
+    },
+    {
+      "product": "Apples",
+      "adjustmentOperation": "MULTIPLY",
+      "adjustmentPrice": 2.00
+    },
+    {
+      "product": "Apples",
+      "price": 10.00,
+      "quantity": 1
+    },
+    {
+      "product": "Cherry",
+      "price": 20.00,
+      "quantity": 5
+    },
+    {
+      "product": "Banana",
+      "price": 5.00,
+      "quantity": 12
+    },
+    {
+      "product": "Apples",
+      "price": 10.00,
+      "quantity": 20
+    },
+    {
+      "product": "Cherry",
+      "adjustmentOperation": "ADD",
+      "adjustmentPrice": 10.00
+    },
+    {
+      "product": "Apples",
+      "price": 10.00,
+      "quantity": 1
+    },
+    {
+      "product": "Cherry",
+      "price": 20.00,
+      "quantity": 5
+    },
+    {
+      "product": "Banana",
+      "price": 5.25,
+      "quantity": 12
+    }
+  ]
+}
