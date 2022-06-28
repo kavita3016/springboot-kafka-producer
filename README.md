@@ -20,4 +20,4 @@ This is a spring boot application which publishes sale notification messages on 
 - Run the main class SpringbootKafkaProducerApplication.java
 - load http://localhost:9090/publish/ on browser
 - you will see "Message published Successfully!!" on the browser window if the msgs were loaded successfully
-- refresh the browser if you want the send the set of sales notification msgs again to kafka topic.
+- In case if you want to load a different set of msgs, just update the json file and hit the API again.
