@@ -9,7 +9,7 @@ This is a spring boot application which publishes sale notification messages on 
 ## Technologies Used:
 - Spring Boot 2.7.1
 - Spring Kafka
-- Core Java 1.8
+- Core Java 11
 
 ## Installation
 
