@@ -7,9 +7,9 @@ This is a spring boot application which publishes sale notification messages on 
 - Endpoint : http://localhost:9090/publish/
 
 ## Technologies Used:
-Spring Boot 2.7.1
-Spring Kafka
-Core Java 1.8
+- Spring Boot 2.7.1
+- Spring Kafka
+- Core Java 1.8
 
 ## Installation
 
