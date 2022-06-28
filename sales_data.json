@@ -2,8 +2,8 @@
   "sales": [
     {
       "product": "Apples",
-      "price": 10.00,
-      "quantity": 20
+      "price": 3.00,
+      "quantity": 5
     },
     {
       "product": "Apples",
@@ -12,23 +12,23 @@
     },
     {
       "product": "Apples",
-      "price": 10.00,
+      "price": 2.00,
       "quantity": 1
     },
     {
       "product": "Cherry",
-      "price": 20.00,
+      "price": 10.00,
       "quantity": 5
     },
     {
       "product": "Banana",
-      "price": 5.00,
+      "price": 10.00,
       "quantity": 12
     },
     {
       "product": "Apples",
-      "price": 10.00,
-      "quantity": 20
+      "price": 4.00,
+      "quantity": 5
     },
     {
       "product": "Cherry",
@@ -42,13 +42,13 @@
     },
     {
       "product": "Cherry",
-      "price": 20.00,
+      "price": 10.00,
       "quantity": 5
     },
     {
-      "product": "Banana",
-      "price": 5.25,
-      "quantity": 12
+      "product": "Cherry",
+      "adjustmentOperation": "SUBTRACT",
+      "adjustmentPrice": 1.00
     }
   ]
 }
